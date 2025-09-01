@@ -1,0 +1,3 @@
+fps: 30
+Høyde: 480
+Bredde: 640
